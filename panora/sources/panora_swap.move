@@ -1,4 +1,4 @@
-module wrapper::panora_swap {
+module 0x1c3206329806286fd2223647c9f9b130e66baeb6d7224a18c1f642ffe48f3b4c::panora_swap {
 
     public entry fun router_entry<
         T0,
