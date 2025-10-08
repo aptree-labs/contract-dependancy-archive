@@ -1,4 +1,4 @@
-module goblin::goblin {
+module goblin::vaults {
 
     use aptos_framework::fungible_asset::Metadata;
     use aptos_framework::object::Object;
