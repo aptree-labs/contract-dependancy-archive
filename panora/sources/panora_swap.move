@@ -1,0 +1,62 @@
+module wrapper::panora_swap {
+
+    public entry fun router_entry<
+        T0,
+        T1,
+        T2,
+        T3,
+        T4,
+        T5,
+        T6,
+        T7,
+        T8,
+        T9,
+        T10,
+        T11,
+        T12,
+        T13,
+        T14,
+        T15,
+        T16,
+        T17,
+        T18,
+        T19,
+        T20,
+        T21,
+        T22,
+        T23,
+        T24,
+        T25,
+        T26,
+        T27,
+        T28,
+        T29,
+        T30,
+        T31
+    >(
+        arg0: &signer,
+        arg1: 0x1::option::Option<signer>,
+        arg2: address,
+        arg03: u64,
+        arg04: u8,
+        arg05: vector<u8>,
+        arg3: vector<vector<vector<u8>>>,
+        arg4: vector<vector<vector<u64>>>,
+        arg5: vector<vector<vector<bool>>>,
+        arg6: vector<vector<u8>>,
+        arg7: vector<vector<vector<address>>>,
+        arg8: vector<vector<address>>,
+        arg9: vector<vector<address>>,
+        arg10: 0x1::option::Option<vector<vector<vector<vector<vector<u8>>>>>>,
+        arg11: vector<vector<vector<u64>>>,
+        arg12: 0x1::option::Option<vector<vector<vector<u8>>>>,
+        arg13: address,
+        arg14: vector<u64>,
+        arg15: u64,
+        arg16: u64,
+        arg17: address
+    ) {
+
+    }
+
+}
